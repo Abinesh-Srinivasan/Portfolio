@@ -1,6 +1,6 @@
 # Professional Portfolio
 
-![Portfolio Screenshots]
+## Portfolio Screenshots
 ![Screenshot 2024-02-09 172120](https://github.com/Abinesh-Srinivasan/Portfolio/assets/148744282/36efde3d-9beb-4177-9912-5c3c80390bb0)
 ![Screenshot 2024-02-09 172132](https://github.com/Abinesh-Srinivasan/Portfolio/assets/148744282/b186dbc7-63aa-46a6-96f6-77bd3d3e2459)
 ![Screenshot 2024-02-09 172204](https://github.com/Abinesh-Srinivasan/Portfolio/assets/148744282/78fb8b75-02ba-4f0f-90ec-84f7f2bd3d06)
