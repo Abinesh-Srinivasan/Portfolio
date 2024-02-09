@@ -25,7 +25,7 @@ Welcome to my professional portfolio website, crafted during my internship at Co
 - Concise professional background, emphasizing expertise and commitment.
 - Personal insights aligned with my passion for technology.
 
-### 3. Profiencies
+### 3. Proficiencies
 - Comprehensive display of technical skills, presented with interactive and visually appealing animations.
 - Clear descriptions highlighting proficiency levels and practical applications.
 
