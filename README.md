@@ -1,12 +1,16 @@
 # Professional Portfolio
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshots]
+![Screenshot 2024-02-09 172120](https://github.com/Abinesh-Srinivasan/Portfolio/assets/148744282/36efde3d-9beb-4177-9912-5c3c80390bb0)
+![Screenshot 2024-02-09 172132](https://github.com/Abinesh-Srinivasan/Portfolio/assets/148744282/b186dbc7-63aa-46a6-96f6-77bd3d3e2459)
+![Screenshot 2024-02-09 172204](https://github.com/Abinesh-Srinivasan/Portfolio/assets/148744282/78fb8b75-02ba-4f0f-90ec-84f7f2bd3d06)
+
 
 ## Overview
 Welcome to my professional portfolio website, crafted during my internship at Codsoft. This site is more than a showcase; it's a dynamic presentation of my proficiency, project showcases, and professional journey, enriched with captivating animations.
 
 ### Key Features
-- *Desktop Optimization:* Tailored for an impeccable desktop experience.
+- *Desktop Optimization:* Tailored for an impeccable desktop experience(It is responsive only for desktop).
 - *Profiencies:* Display of technical skills with dynamic animations, conveying proficiency levels effectively.
 - *Showcases:* In-depth presentations of diverse projects, each with its own section and engaging animations.
 - *Contact Section:* A polished interface with multiple contact options, including a form, email, and social media links.
@@ -34,17 +38,7 @@ Welcome to my professional portfolio website, crafted during my internship at Co
 - Animated elements providing a guided and interactive experience.
 
 ## Portfolio Link
-Explore my professional portfolio website: [Portfolio Link](https://your-portfolio-link.com)
+Explore my professional portfolio website: [Portfolio Link](https://abinesh-srinivasan.github.io/Portfolio/)
 
-## Screenshots
-![Home Section](screenshots/home.png)
-![About Section](screenshots/about.png)
-![Profiencies Section](screenshots/profiencies.png)
-![Showcases Section](screenshots/showcases.png)
-![Contact Section](screenshots/contact.png)
 
 Feel free to reach out with any feedback or inquiries. Thank you for visiting!
-
----
-
-Replace "screenshot.png," "https://your-portfolio-link.com," and the screenshot file names and links with your actual details.
